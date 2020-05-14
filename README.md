@@ -1,1 +1,1 @@
-# m-zik-bottuu
+# Discord-Music-Bot-tutorial
